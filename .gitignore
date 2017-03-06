@@ -11,5 +11,5 @@ target/
 *.cache-main
 *.cache-tests
 *.classpath
-*.project
 *.keep
+*.project
