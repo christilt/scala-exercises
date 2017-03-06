@@ -1,0 +1,15 @@
+# Folders
+
+bin/
+.settings/
+project/
+target/
+
+# Hidden files
+
+*.sbt
+*.cache-main
+*.cache-tests
+*.classpath
+*.project
+*.keep
