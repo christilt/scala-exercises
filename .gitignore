@@ -13,3 +13,6 @@ target/
 *.classpath
 *.keep
 *.project
+
+# README files
+*.md
